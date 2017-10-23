@@ -1,0 +1,887 @@
+{
+  "results_found": 3517,
+  "results_start": 0,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16690885
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16690885",
+        "name": "Reyhan Pastanesi",
+        "url": "https://www.zomato.com/izmir/reyhan-pastanesi-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, Mustafabey Caddesi, No 24, Konak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4322000000",
+          "longitude": "27.1416000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Patisserie",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.7",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "243"
+        },
+        "photos_url": "https://www.zomato.com/izmir/reyhan-pastanesi-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/reyhan-pastanesi-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16690885",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/reyhan-pastanesi-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16691092
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16691092",
+        "name": "Tavacı Recep Usta",
+        "url": "https://www.zomato.com/izmir/tavacı-recep-usta-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, Atatürk Caddesi, No 364, Konak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4405562133",
+          "longitude": "27.1427428722",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Izgara, Turkish",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "163"
+        },
+        "photos_url": "https://www.zomato.com/izmir/tavacı-recep-usta-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/tavacı-recep-usta-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16691092",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/tavacı-recep-usta-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16690267
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16690267",
+        "name": "Ristorante Pizzeria Venedik",
+        "url": "https://www.zomato.com/izmir/ristorante-pizzeria-venedik-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, Cumhuriyet Bulvarı, 1382. Sokak, No 10/B, Alsancak, Izmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4322000000",
+          "longitude": "27.1384000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Italian",
+        "average_cost_for_two": 90,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "114"
+        },
+        "photos_url": "https://www.zomato.com/izmir/ristorante-pizzeria-venedik-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/ristorante-pizzeria-venedik-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16690267",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/ristorante-pizzeria-venedik-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16689791
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16689791",
+        "name": "Dost Pide Pizza - Ilica",
+        "url": "https://www.zomato.com/izmir/dost-pide-pizza-ilica-ilica?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "5152 Sokak No:27 PK: 35930 Ilica, Ilica, Izmir",
+          "locality": "Ilica",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.3057989713",
+          "longitude": "26.3656421005",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Ilica, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Turkish Pizza",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "153"
+        },
+        "photos_url": "https://www.zomato.com/izmir/dost-pide-pizza-ilica-ilica/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/dost-pide-pizza-ilica-ilica/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16689791",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/dost-pide-pizza-ilica-ilica/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16689715
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16689715",
+        "name": "Topçu Restaurant",
+        "url": "https://www.zomato.com/izmir/topçu-restaurant-pasaport?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Çelebi Mahallesi, Kazım Dirik Caddesi, No 3/B, Konak, İzmir",
+          "locality": "Pasaport",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.3626830000",
+          "longitude": "26.8860830000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Pasaport, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Izgara, Mediterranean",
+        "average_cost_for_two": 85,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "169"
+        },
+        "photos_url": "https://www.zomato.com/izmir/topçu-restaurant-pasaport/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/topçu-restaurant-pasaport/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16689715",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/topçu-restaurant-pasaport/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16689654
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16689654",
+        "name": "La Cigale",
+        "url": "https://www.zomato.com/izmir/la-cigale-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Fransız Kültür Merkezi, Kültür Mahallesi, Cumhuriyet Bulvarı, No 152, Konak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4314883759",
+          "longitude": "27.1372389793",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.5",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "141"
+        },
+        "photos_url": "https://www.zomato.com/izmir/la-cigale-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/la-cigale-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16689654",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/la-cigale-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16691972
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16691972",
+        "name": "Alavara",
+        "url": "https://www.zomato.com/izmir/alavara-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "1452 Sokak (Can Yücel Sokagi) No:15/C Alsancak, Izmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4409842676",
+          "longitude": "27.1450137868",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Restaurant Cafe",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "71"
+        },
+        "photos_url": "https://www.zomato.com/izmir/alavara-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/alavara-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16691972",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/alavara-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16695662
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16695662",
+        "name": "Tuzu Biberi Kahvaltı ve Yemek Evi",
+        "url": "https://www.zomato.com/izmir/tuzu-biberi-kahvaltı-ve-yemek-evi-1-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, Atatürk Caddesi, No 204, Alsancak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4357000000",
+          "longitude": "27.1395000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Home-made, Italian, Aegean",
+        "average_cost_for_two": 50,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "66"
+        },
+        "photos_url": "https://www.zomato.com/izmir/tuzu-biberi-kahvaltı-ve-yemek-evi-1-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/tuzu-biberi-kahvaltı-ve-yemek-evi-1-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16695662",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/tuzu-biberi-kahvaltı-ve-yemek-evi-1-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18128845
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "18128845",
+        "name": "Varuna Gezgin",
+        "url": "https://www.zomato.com/izmir/varuna-gezgin-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alsancak Mahallesi, 1469 Sokak, No 17, Alsancak, İzmir, Alsancak, Izmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4392410000",
+          "longitude": "27.1434960000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bar Food",
+        "average_cost_for_two": 110,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "44"
+        },
+        "photos_url": "https://www.zomato.com/izmir/varuna-gezgin-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/varuna-gezgin-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/18128845",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/varuna-gezgin-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16689711
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16689711",
+        "name": "Asansör Restaurant",
+        "url": "https://www.zomato.com/izmir/asansör-restaurant-karatas?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Turgut Reis Mahallesi, Şht. Nihanbey Caddesi, No, 76/A, Karataş, İzmir, Karatas, Izmir",
+          "locality": "Karatas",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4085772677",
+          "longitude": "27.1173840490",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Karatas, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe, Seafood, Izgara",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "102"
+        },
+        "photos_url": "https://www.zomato.com/izmir/asansör-restaurant-karatas/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/asansör-restaurant-karatas/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16689711",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/asansör-restaurant-karatas/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18088938
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "18088938",
+        "name": "Pizza Locale",
+        "url": "https://www.zomato.com/izmir/pizza-locale-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, 1390 Sokak, No 5/B,   İzmir, Alsancak, Alsancak, Izmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4509040000",
+          "longitude": "27.2008970000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Pizza",
+        "average_cost_for_two": 60,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "65"
+        },
+        "photos_url": "https://www.zomato.com/izmir/pizza-locale-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/pizza-locale-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/18088938",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/pizza-locale-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16696101
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16696101",
+        "name": "Alsancak Dostlar Fırını",
+        "url": "https://www.zomato.com/izmir/alsancak-dostlar-fırını-1-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alsancak Mahallesi, Kıbrıs Şehitleri Caddesi, No 120, Konak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4392000000",
+          "longitude": "27.1438000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Bakery, Cafe",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.9",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "81"
+        },
+        "photos_url": "https://www.zomato.com/izmir/alsancak-dostlar-fırını-1-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/alsancak-dostlar-fırını-1-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16696101",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/alsancak-dostlar-fırını-1-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16691886
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16691886",
+        "name": "Denizalti Restaurant",
+        "url": "https://www.zomato.com/izmir/denizalti-restaurant-urla?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Iskele Tanju Okan Parki Urla Izmir, Urla, Izmir",
+          "locality": "Urla",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.3719818293",
+          "longitude": "26.7618084655",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Urla, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe, Turkish",
+        "average_cost_for_two": 45,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "65"
+        },
+        "photos_url": "https://www.zomato.com/izmir/denizalti-restaurant-urla/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/denizalti-restaurant-urla/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16691886",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/denizalti-restaurant-urla/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16692077
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16692077",
+        "name": "Bravo Patisserie",
+        "url": "https://www.zomato.com/izmir/bravo-patisserie-bostanli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Bostanlı Mahallesi, Cemal Gürsel Caddesi, No 111, Karşıyaka, İzmir",
+          "locality": "Bostanli",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4581000000",
+          "longitude": "27.0960000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Bostanli, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Patisserie, Cafe",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "88"
+        },
+        "photos_url": "https://www.zomato.com/izmir/bravo-patisserie-bostanli/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/bravo-patisserie-bostanli/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16692077",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/bravo-patisserie-bostanli/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16690252
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16690252",
+        "name": "Sevinç Pastanesi",
+        "url": "https://www.zomato.com/izmir/sevinç-pastanesi-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Kültür Mahallesi, Ali Çetinkaya Bulvarı, No 31/A, Konak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4349000000",
+          "longitude": "27.1417000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Patisserie",
+        "average_cost_for_two": 20,
+        "price_range": 1,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "124"
+        },
+        "photos_url": "https://www.zomato.com/izmir/sevinç-pastanesi-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/sevinç-pastanesi-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16690252",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/sevinç-pastanesi-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16692606
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16692606",
+        "name": "Midpoint",
+        "url": "https://www.zomato.com/izmir/midpoint-cumhuriyet-bul?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Sehit Nevres Bulv. No:2/A 35210 Alsancak - Izmir",
+          "locality": "Cumhuriyet Bul",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4285000000",
+          "longitude": "27.1354000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Cumhuriyet Bul, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "World Cuisine",
+        "average_cost_for_two": 130,
+        "price_range": 4,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/5902421_CHAIN_4295a5cf172e91c682b57c5ac8de7813.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "53"
+        },
+        "photos_url": "https://www.zomato.com/izmir/midpoint-cumhuriyet-bul/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/midpoint-cumhuriyet-bul/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/5902421_CHAIN_4295a5cf172e91c682b57c5ac8de7813.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16692606",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/midpoint-cumhuriyet-bul/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16697928
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16697928",
+        "name": "La Puerta",
+        "url": "https://www.zomato.com/izmir/la-puerta-alsancak?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alsancak Mahallesi, 1469. sokak No 69/71, Alsancak, İzmir",
+          "locality": "Alsancak",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4391630000",
+          "longitude": "27.1443980000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Alsancak, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe",
+        "average_cost_for_two": 35,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "56"
+        },
+        "photos_url": "https://www.zomato.com/izmir/la-puerta-alsancak/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/la-puerta-alsancak/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16697928",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/la-puerta-alsancak/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16690221
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16690221",
+        "name": "Ünal Kardesler Katmer Salonu",
+        "url": "https://www.zomato.com/izmir/ünal-kardesler-katmer-salonu-urla?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "M. Fevzi Çakmak Cad. No:36 Iskele Urla - Izmir, Urla, Izmir",
+          "locality": "Urla",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.3631614849",
+          "longitude": "26.7732524872",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Urla, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Börek, Desserts",
+        "average_cost_for_two": 30,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "43"
+        },
+        "photos_url": "https://www.zomato.com/izmir/ünal-kardesler-katmer-salonu-urla/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/ünal-kardesler-katmer-salonu-urla/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16690221",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/ünal-kardesler-katmer-salonu-urla/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16694498
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16694498",
+        "name": "Cafe Del Mundo",
+        "url": "https://www.zomato.com/izmir/cafe-del-mundo-kibris-seh-cad?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alsancak Mahallesi, Kıbrıs Şehitleri Cadddesi, Muzaffer İzgü Sokak, No 13, Konak, İzmir",
+          "locality": "Kibris Seh.Cad",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.4377000000",
+          "longitude": "27.1427000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Kibris Seh.Cad, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe",
+        "average_cost_for_two": 80,
+        "price_range": 3,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "57"
+        },
+        "photos_url": "https://www.zomato.com/izmir/cafe-del-mundo-kibris-seh-cad/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/cafe-del-mundo-kibris-seh-cad/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16694498",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/cafe-del-mundo-kibris-seh-cad/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 16690896
+        },
+        "apikey": "1057f49296c1a5c1e2e82bd34365ad56",
+        "id": "16690896",
+        "name": "Beğendik Abi",
+        "url": "https://www.zomato.com/izmir/beğendik-abi-1-urla?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Camiatik Mahallesi, Tatarcamii Sokak, No 12, Urla, İzmir",
+          "locality": "Urla",
+          "city": "Izmir",
+          "city_id": 376,
+          "latitude": "38.3221000000",
+          "longitude": "26.7665000000",
+          "zipcode": "",
+          "country_id": 208,
+          "locality_verbose": "Urla, Izmir"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Home-made",
+        "average_cost_for_two": 40,
+        "price_range": 2,
+        "currency": "TL",
+        "offers": [],
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.4",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "58"
+        },
+        "photos_url": "https://www.zomato.com/izmir/beğendik-abi-1-urla/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/izmir/beğendik-abi-1-urla/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/16690896",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/izmir/beğendik-abi-1-urla/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    }
+  ]
+}
